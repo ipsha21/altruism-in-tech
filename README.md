@@ -2,6 +2,8 @@
 
 **Promoting diversity and inclusion in tech by connecting newcomers with tech professionals.**
  
+ [![Join the chat at https://gitter.im/AltruismInTech/Lobby](https://badges.gitter.im/AltruismInTech/Lobby.svg)](https://gitter.im/AltruismInTech/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Welcome! 
 Our day just got better. Thank you for visiting Altruism in Tech repository, it’s our pleasure to have you here. :)
 
@@ -72,3 +74,4 @@ This project is licensed under the MIT License - you can see [LICENSE](https://g
 If you have anything to share, anything at all, feel free to drop by the Altruism in Tech [room](https://gitter.im/AltruismInTech/Lobby#) on Gitter and say hi. We would love to hear from you. You can also contact [Ipsha](https://github.com/ipsha21) by email (ipsha21 [at] gmail [dot] com) or on [Twitter](https://twitter.com/ipsha21).
 
 Thank you for your interest. Have a nice day! :D
+
