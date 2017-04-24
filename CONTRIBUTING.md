@@ -19,13 +19,11 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 
 ## What we're working on
 
-Take a look at the issues in our [current milestone](https://github.com/ipsha21/altruism-in-tech/issues) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Take a look at this [Roadmapping exercise](https://github.com/ipsha21/altruism-in-tech/issues) to start making your own milestones and issues. 
 
 ## How to submit changes
 
- Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
  
  1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
  2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
@@ -35,7 +33,7 @@ Take a look at this [Roadmapping exercise](http://mozillascience.github.io/worki
 
 ## How to report bugs
 
- Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/ipsha21/altruism-in-tech/issues)!
+Notice a mistake? Please file any bugs, requests, or questions in our [issue tracker](https://github.com/ipsha21/altruism-in-tech/issues)!
 
 ## Communication channels
 
