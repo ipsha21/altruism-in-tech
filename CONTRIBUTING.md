@@ -1,11 +1,11 @@
 # Contributing to Altruism in tech
 
 Thank you for your interest in contributing to **Altruism in Tech** :tada:! 
-If you're interested in contributing, you should find all of the details here. We've centralized it into this repository, we'd like to keep things tidy and focused. Issues and roadmap goals will reflect changes accross multiple repositories on Github, so you'll have the opportunity to contribute to multiple aspects of this project.
+If you're interested in contributing, you should find all of the details here. We've centralized it into this repository, we'd like to keep things tidy and focused. Issues and roadmap goals will reflect changes across multiple repositories on Github, so you'll have the opportunity to contribute to multiple aspects of this project.
 
 **Altruism in tech** is promoting diversity and inclusion in tech by connecting newcomers with tech professionals.
 
-This documents is a set of guidelines for contributing to **Altruism in tech** on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+This document is a set of guidelines for contributing to **Altruism in tech** on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 * [Participation guidelines](#participation-guidelines)
 * [What we're working on](#what-were-working-on)
