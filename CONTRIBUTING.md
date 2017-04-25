@@ -37,5 +37,5 @@ Notice a mistake? Please file any bugs, requests, or questions in our [issue tra
 
 ## Communication channels
 
-If you have anything to share, anything at all, feel free to drop by the Altruism in Tech [room](https://gitter.im/AltruismInTech/Lobby) on Gitter and say hi. We would love to hear from you. You can also contact Ipsha by [email](ipsha21@gmail.com) or on [Twitter](https://twitter.com/ipsha21).
+If you have anything to share, anything at all, feel free to drop by the Altruism in Tech [room](https://gitter.im/AltruismInTech/Lobby) on Gitter and say hi. We would love to hear from you. You can also contact Ipsha by ipsha21@gmail.com or on [Twitter](https://twitter.com/ipsha21).
 
