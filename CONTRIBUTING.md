@@ -15,11 +15,11 @@ This document is a set of guidelines for contributing to **Altruism in tech** on
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to ipsha21@gmail.com.
+This project adheres to a [Mozilla Community Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/). By participating, you are expected to uphold this code. Please report unacceptable behavior to ipsha21@gmail.com.
 
 ## What we're working on
 
-Take a look at this [Roadmapping exercise](https://github.com/ipsha21/altruism-in-tech/issues) to start making your own milestones and issues. 
+Take a look at the issues in our [current milestone](https://github.com/ipsha21/altruism-in-tech/issues) or browse for some good first bugs to get started! 
 
 ## How to submit changes
 
