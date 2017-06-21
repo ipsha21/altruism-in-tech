@@ -55,6 +55,8 @@ You are a potential mentor if you check any one or more of the following:
 - can devote a teensy-tiny amount of time out of your busy schedule (**we *really* appreciate this**)
 - can answer some questions online, share advice, resources, good practices, tips and tricks, or anything else that you think can be helpful.
 
+Meanwhile, please register here: https://goo.gl/forms/5o9qxSnyk3Nuoz2I3 
+
 ### Newcomers/Mentee
 *(Bear with us while we work on making your lives a little easier. Meanwhile come [say hi](https://gitter.im/AltruismInTech/Lobby#), and let us know what do you think of the project)*
 If you’re trying to learn something new and find it difficult to continue or even begin, then we’re here to help you because we understand tech can be overwhelming at times. You are the future who will drive this community forward and you are important to us. We’d love to help! More power to you, for trying to fight against the odds.
